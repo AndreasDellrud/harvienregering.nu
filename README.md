@@ -10,10 +10,9 @@ be treated as current information about the Swedish government.
 
 ## Background
 
-On 21 June 2021, Prime Minister Stefan Löfven lost a vote of no confidence in
-the Riksdag. After a period of government negotiations and rounds of talks led
-by the Speaker, Löfven was re-elected prime minister on 7 July 2021. The site’s
-single-line response changed along with the situation.
+The site’s single-line response changed along with the political situation.
+For the full sequence of events, see the Swedish Wikipedia article
+[Regeringskrisen i Sverige 2021](https://sv.wikipedia.org/wiki/Regeringskrisen_i_Sverige_2021).
 
 ## Running locally
 
